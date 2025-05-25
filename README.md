@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designe
 ##  About Me
 
 -  **Web Developer** | **Embedded Systems Innovator** | **AI Explorer** | **Designer** | **Humanitarian Technologist**
-- **IEEE Kerala Section SIGHT** **STEM Coordinator** and active NGO collaborator
+- **IEEE Kerala Section SIGHT** **STEM Coordinator** and active **NGO collaborator**
 - **Humanitarian Thinker:** Committed to leveraging technology for social good, with a focus on sustainable development and real-life implementation.
 - I love transforming ideas into working prototypes—whether it's a smart wearable, an intelligent web app, a stunning visual, or a life-changing community project.
 - Passionate about UI/UX and visual storytelling, familiar with Photoshop, Illustrator, and Figma.
@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designe
 
 ## 🛠️ Core Skills
 
-- **Languages:** JavaScript, HTML, CSS, C (Embedded), Verilog
+- **Languages:** JavaScript, HTML, CSS, C (Embedded), Verilog,Python
 - **Frameworks & Libraries:** React, Bootstrap, Streamlit, LangChain
 - **Tools & Platforms:** Git, FAISS, Gemini AI, ESP32, 8051 Microcontroller
 - **Design:** Photoshop, Illustrator, Figma
