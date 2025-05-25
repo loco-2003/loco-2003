@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designe
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 - **Languages:** JavaScript, HTML, CSS, C (Embedded), Verilog,Python
 - **Frameworks & Libraries:** React, Bootstrap, Streamlit, LangChain
