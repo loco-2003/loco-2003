@@ -72,13 +72,13 @@ A minimalist web app for generating random numbers (0-100) on the fly.
 
 ### 🌍 Humanitarian Impact Projects
 
-#### 🏆 D2ReK – Drinking Water and Renewable Energy for Kuthiryilakudi
+####  D2ReK – Drinking Water and Renewable Energy for Kuthiryilakudi
 **IEEE SIGHT Kerala HTB Funded Project (Code: 23-HTB-062)**  
 A sustainable solution addressing clean water scarcity and energy deficiency in the tribal settlement of Kuthiryilakudi, Munnar, Kerala.
 - **Role:** Project implementation team – deployed a solar-powered water distribution system and basic lighting for 18 families lacking infrastructure.
 - **Impact:** Improved quality of life by ensuring access to safe water and reliable energy.
 
-#### 🥇 Sourajala – Solar-Powered Clean Water Distribution
+####  Sourajala – Solar-Powered Clean Water Distribution
 **IEEE SB NSSCE & IEEE Kerala Section SIGHT, funded by IEEE HTB**  
 Implemented in Chavadippara, Walayar, Palakkad, this project tackled severe water scarcity in a tribal village:
 - **Role:** Team member in planning, execution, and community engagement.
