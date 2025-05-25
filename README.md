@@ -4,24 +4,28 @@ Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designe
 
 ---
 
-##  About Me
+## About Me
 
--  **Web Developer** | **Embedded Systems Innovator** | **AI Explorer** | **Designer** | **Humanitarian Technologist**
-- **IEEE Kerala Section SIGHT** **STEM Coordinator** and active **NGO collaborator**
-- **Humanitarian Thinker:** Committed to leveraging technology for social good, with a focus on sustainable development and real-life implementation.
-- I love transforming ideas into working prototypes—whether it's a smart wearable, an intelligent web app, a stunning visual, or a life-changing community project.
-- Passionate about UI/UX and visual storytelling, familiar with Photoshop, Illustrator, and Figma.
-- Committed to continuous learning, collaboration, and sharing knowledge with the community.
+| 🚀 Web Developer | 🔌 Embedded Innovator | 🤖 AI Explorer | 🎨 Designer | 🌍 Humanitarian Technologist |
+|:----------------:|:-------------------:|:--------------:|:-----------:|:---------------------------:|
+| IEEE Kerala Section SIGHT STEM Coordinator & active NGO collaborator |
+| Dedicated to leveraging technology for social good and sustainable impact |
+| I turn ideas into prototypes—smart wearables, web apps, visuals, & community projects |
+| Passionate about UI/UX and visual storytelling (Photoshop, Illustrator, Figma) |
+| Committed to continuous learning, collaboration, and sharing knowledge |
+
 
 ---
 
 ## Core Skills
 
-- **Languages:** JavaScript, HTML, CSS, C (Embedded), Verilog,Python
-- **Frameworks & Libraries:** React, Bootstrap, Streamlit, LangChain
-- **Tools & Platforms:** Git, FAISS, Gemini AI, ESP32, 8051 Microcontroller
-- **Design:** Photoshop, Illustrator, Figma
-- **Expertise:** Hardware prototyping, Circuit design, LTspice, SPI, AI-assisted applications, Flutter basics, Humanitarian project management
+| **Category**                | **Skills & Tools**                                                                                 |
+|-----------------------------|----------------------------------------------------------------------------------------------------|
+| **Hardware & Embedded**     | Hardware Prototyping, Circuit Design, ESP32, 8051, Embedded C, Verilog, LTspice, SPI              |
+| **Software Development**    | JavaScript, Python, HTML & CSS, React, Bootstrap, Streamlit, LangChain, Gemini AI, FAISS, Flutter (basics) |
+| **Design & UX**             | UI/UX Design, Visual Storytelling, Photoshop, Illustrator, Figma                                   |
+| **Platforms & Tools**       | Git, Humanitarian project management                                                               |
+
 
 ---
 
