@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Keerthana N (loco-2003)
+#  Hi, I'm Keerthana N (loco-2003)
 
 Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designer, and humanitarian thinker. I thrive at the intersection of **software innovation**, **electronics engineering**, **visual design**, and **community impact**. My work bridges the digital, physical, and social spheres to create real-world change.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🌐 **Web Developer** | 💡 **Embedded Systems Innovator** | 🤖 **AI Explorer** | 🎨 **Designer** | 🌍 **Humanitarian Technologist**
+-  **Web Developer** | **Embedded Systems Innovator** | **AI Explorer** | **Designer** | **Humanitarian Technologist**
 - **IEEE Kerala Section SIGHT** **STEM Coordinator** and active NGO collaborator
 - **Humanitarian Thinker:** Committed to leveraging technology for social good, with a focus on sustainable development and real-life implementation.
 - I love transforming ideas into working prototypes—whether it's a smart wearable, an intelligent web app, a stunning visual, or a life-changing community project.
@@ -25,9 +25,9 @@ Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designe
 
 ---
 
-## 🌟 Featured Technical Projects
+## Featured Technical Projects
 
-### 🔬 Hardware Innovations
+### Hardware Innovations
 
 #### [Affordable-Haptic-Glove](https://github.com/loco-2003/Affordable-Haptic-Glove)
 A revolutionary, low-cost haptic glove for stroke rehabilitation, combining ESP32, flex sensors, and vibration motors with a gamified Flutter app.
@@ -51,7 +51,7 @@ A visual thermometer using LM35 sensor and LM3915 IC for a 10-LED temperature di
 
 ---
 
-### 💻 Software & AI Projects
+### Software & AI Projects
 
 #### [Legal-Assistant-AI](https://github.com/loco-2003/Legal-Assistant-AI)
 AI-driven legal document analysis tool powered by LangChain, Gemini, FAISS, and Streamlit, offering instant red flag detection and context-based Q&A.
@@ -70,7 +70,7 @@ A minimalist web app for generating random numbers (0-100) on the fly.
 
 ---
 
-### 🌍 Humanitarian Impact Projects
+###  Humanitarian Impact Projects
 
 ####  D2ReK – Drinking Water and Renewable Energy for Kuthiryilakudi
 **IEEE SIGHT Kerala HTB Funded Project (Code: 23-HTB-062)**  
@@ -87,7 +87,7 @@ Implemented in Chavadippara, Walayar, Palakkad, this project tackled severe wate
 
 ---
 
-## 🏆 Why Work With Me?
+##  Why Work With Me?
 
 - **Innovation-Driven:** I don't just follow trends—I create them through hands-on experimentation and humanitarian vision.
 - **Full-Stack Perspective:** From microchips to machine learning, from visual design to social impact, I bring a holistic, purpose-driven approach.
@@ -95,7 +95,7 @@ Implemented in Chavadippara, Walayar, Palakkad, this project tackled severe wate
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - **GitHub:** [loco-2003](https://github.com/loco-2003)
 - **Email:** kn58967@gmail.com
