@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designe
 
 | **Category**                | **Skills & Tools**                                                                                 |
 |-----------------------------|----------------------------------------------------------------------------------------------------|
-| **Hardware & Embedded**     | Hardware Prototyping, Circuit Design, ESP32, 8051, Embedded C, Verilog, LTspice, SPI              |
+| **Hardware & Embedded**     | Hardware Prototyping, Circuit Design, ESP32, 8051, Embedded C, Verilog, LTspice                    |
 | **Software Development**    | JavaScript, Python, HTML & CSS, React, Bootstrap, Streamlit, LangChain, Gemini AI, FAISS, Flutter (basics) |
 | **Design & UX**             | UI/UX Design, Visual Storytelling, Photoshop, Illustrator, Figma                                   |
 | **Platforms & Tools**       | Git, Humanitarian project management                                                               |
@@ -74,7 +74,7 @@ A minimalist web app for generating random numbers (0-100) on the fly.
 ###  Humanitarian Impact Projects
 
 ####  D2ReK – Drinking Water and Renewable Energy for Kuthiryilakudi
-**IEEE SIGHT Kerala HTB Funded Project (Code: 23-HTB-062)**  
+**IEEE SIGHT Kerala HTB Funded Project**  
 A sustainable solution addressing clean water scarcity and energy deficiency in the tribal settlement of Kuthiryilakudi, Munnar, Kerala.
 - **Role:** Project implementation team – deployed a solar-powered water distribution system and basic lighting for 18 families lacking infrastructure.
 - **Impact:** Improved quality of life by ensuring access to safe water and reliable energy.
