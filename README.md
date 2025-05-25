@@ -34,6 +34,13 @@ Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designe
 A revolutionary, low-cost haptic glove for stroke rehabilitation, combining ESP32, flex sensors, and vibration motors with a gamified Flutter app.
 - **Role:** Architected hardware-software integration, developed the Flutter therapy interface.
 - **Impact:** Advanced wearable tech experience, deepened expertise in medical applications.
+- Led the project from the initial idea of gamified rehabilitation to a fully functional prototype.
+- Architected and integrated hardware (ESP32, flex sensors, vibration motors) with custom circuit design.
+- Developed the Flutter-based therapy app, enabling engaging, gamified therapy experiences.
+- Designed robust communication protocols and implemented real-time data logging for patient progress tracking.
+- Gained comprehensive expertise in wearable medical technology, embedded systems, and cross-platform development.
+
+*All major aspects, from concept to hardware, software, and data management, were contributed and learned hands-on.*
 
 #### [Mobile-Phone-Detector](https://github.com/loco-2003/Mobile-Phone-Detector)
 An RF detection circuit leveraging LM358 op-amp and BC548 transistor to sense active mobile phones by their electromagnetic signatures.
