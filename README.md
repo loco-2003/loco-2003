@@ -31,16 +31,31 @@ Welcome to my GitHub! I'm Keerthana N—a passionate developer, creative designe
 ### Hardware Innovations
 
 #### [Affordable-Haptic-Glove](https://github.com/loco-2003/Affordable-Haptic-Glove)
-A revolutionary, low-cost haptic glove for stroke rehabilitation, combining ESP32, flex sensors, and vibration motors with a gamified Flutter app.
-- **Role:** Architected hardware-software integration, developed the Flutter therapy interface.
-- **Impact:** Advanced wearable tech experience, deepened expertise in medical applications.
-- Led the project from the initial idea of gamified rehabilitation to a fully functional prototype.
-- Architected and integrated hardware (ESP32, flex sensors, vibration motors) with custom circuit design.
-- Developed the Flutter-based therapy app, enabling engaging, gamified therapy experiences.
-- Designed robust communication protocols and implemented real-time data logging for patient progress tracking.
-- Gained comprehensive expertise in wearable medical technology, embedded systems, and cross-platform development.
+A low-cost wearable system combining embedded sensing, haptic feedback, and a gamified Flutter app for post-stroke hand therapy.
 
-*All major aspects, from concept to hardware, software, and data management, were contributed and learned hands-on.*
+**Key Contributions & Technical Highlights**
+
+**Hardware:**  
+- Designed sensor-actuator platform using **ESP32-WROOM-32 (Xtensa LX6 dual-core MCU)** in **Wi-Fi SoftAP mode**.  
+- Interfaced **flex resistive sensors** via ESP32’s **12-bit ADC** for precise finger bend detection.  
+- Developed **NPN transistor + flyback diode motor drivers** for PWM-controlled **ERM vibration motors**.  
+- Powered system with **LM2596 buck converter** stepping 9V battery to stable 3.3V logic voltage.
+
+**Embedded Firmware:**  
+- Implemented **non-blocking ADC sampling** and **PWM motor control** for real-time actuation.  
+- Built a **low-latency (<50ms) full-duplex WebSocket server** enabling bidirectional sensor-actuator communication.
+
+**Flutter App:**  
+- Created a **cross-platform WebSocket client** connecting to ESP32 SoftAP for live data and control.  
+- Developed a **gamified UI** with finger-specific visual/haptic cues to drive therapy exercises.  
+- Used **Hive DB** for offline session data logging and recovery analytics visualization.
+
+**Impact & Skills**  
+- Delivered an affordable (₹ < 1000), portable neurorehabilitation tool optimized for home use.  
+- Gained expertise in embedded systems, real-time wireless protocols, analog sensing, power electronics, and mobile app development.  
+- Led end-to-end hardware-software integration with a clinical focus on user engagement and data-driven therapy.
+
+---
 
 #### [Mobile-Phone-Detector](https://github.com/loco-2003/Mobile-Phone-Detector)
 An RF detection circuit leveraging LM358 op-amp and BC548 transistor to sense active mobile phones by their electromagnetic signatures.
